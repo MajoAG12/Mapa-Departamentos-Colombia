@@ -1,2 +1,2 @@
 # Mapa-Departamentos-Colombia
-El mapa contiene: nombre, área y código.
+El mapa contiene: nombre, área y código. 
